@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Check my last proyect: 
-URL shortener in Go
+URL shortener with Go and JWT
 https://shortener.archbtw.site/
 <!--
 **IrvinTM/IrvinTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
