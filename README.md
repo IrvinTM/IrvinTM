@@ -1,9 +1,3 @@
-## Hi there 👋
-
-Check my last proyect: 
-URL shortener with Go and JWT
-https://shortener.archbtw.site/
-
 # Full Stack Dev
 
 <!--
