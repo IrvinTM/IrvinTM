@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="en" class="main">
 
 <head>
   <meta charset="UTF-8">
@@ -492,4 +494,5 @@ gap: 10px;
   justify-content: center;
   justify-items: center;
 }
-    <style/>
+<style/>
+</html>
